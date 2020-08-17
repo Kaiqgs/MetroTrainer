@@ -1,0 +1,14 @@
+C:\Users\Kags\source\repos\Metrotrainer\bin\Debug\Metrotrainer.exe.config
+C:\Users\Kags\source\repos\Metrotrainer\bin\Debug\Metrotrainer.exe
+C:\Users\Kags\source\repos\Metrotrainer\bin\Debug\Metrotrainer.pdb
+C:\Users\Kags\source\repos\Metrotrainer\obj\Debug\Metrotrainer.csprojAssemblyReference.cache
+C:\Users\Kags\source\repos\Metrotrainer\obj\Debug\Metrotrainer.MainForm.resources
+C:\Users\Kags\source\repos\Metrotrainer\obj\Debug\Metrotrainer.Properties.Resources.resources
+C:\Users\Kags\source\repos\Metrotrainer\obj\Debug\Metrotrainer.csproj.GenerateResource.cache
+C:\Users\Kags\source\repos\Metrotrainer\obj\Debug\Metrotrainer.exe
+C:\Users\Kags\source\repos\Metrotrainer\obj\Debug\Metrotrainer.pdb
+C:\Users\Kags\source\repos\Metrotrainer\obj\Debug\Metrotrainer.AddEvent.resources
+C:\Users\Kags\source\repos\Metrotrainer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kags\source\repos\Metrotrainer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kags\source\repos\Metrotrainer\obj\Debug\Metrotrainer.csproj.CopyComplete
+C:\Users\Kags\source\repos\Metrotrainer\obj\Debug\Metrotrainer.AddRange.resources
